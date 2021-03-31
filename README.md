@@ -7,5 +7,7 @@ A curated list of materials for *Deep Learning in medical applications*.
 
 ## Contents
 
-- [Medical Imaging](#medical-imaging)
+- [Overview papers](#overview-papers)
+- [MRI](#mri)
+- [Segmentations](#segmentations)
 - [Challenges](#challengea)
