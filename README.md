@@ -10,4 +10,7 @@ A curated list of materials for *Deep Learning in medical applications*.
 - [Overview papers](#overview-papers)
 - [MRI](#mri)
 - [Segmentations](#segmentations)
-- [Challenges](#challengea)
+- [Challenges](#challenges)
+
+## Overview papers
+1. [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/pdf/1702.05747.pdf), Litjens et al. (2017) - reviews over 300 works on deep learning in different branches of medical analysis.
