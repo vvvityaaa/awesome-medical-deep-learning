@@ -14,3 +14,4 @@ A curated list of materials for *Deep Learning in medical applications*.
 
 ## Overview papers
 1. [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/pdf/1702.05747.pdf), Litjens et al. (2017) - reviews over 300 works on deep learning in different branches of medical analysis.
+2. [Medical Image Segmentation Using Deep Learning:A Survey](https://arxiv.org/pdf/2009.13120.pdf), Lei et al. (2020) - review of deep learning based approaches for medical image segmentation building overview of state-of-the-art research in this area.
