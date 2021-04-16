@@ -17,5 +17,5 @@ A curated list of materials for *Deep Learning in medical applications*.
 2. [Medical Image Segmentation Using Deep Learning:A Survey](https://arxiv.org/pdf/2009.13120.pdf), Lei et al. (2020) - review of deep learning based approaches for medical image segmentation building overview of state-of-the-art research in this area.
 
 ## MRI
-1. [Dual-domain Cascade of U-nets for Multi-channelMagnetic Resonance Image Reconstruction](https://arxiv.org/pdf/1911.01458.pdf), Souza et al, U-net like architecture for MRI reconstruction.
-2. [State-of-the-art machine learning reconstruction in 2020: results of the second fastMRI challenge](https://arxiv.org/pdf/2012.06318.pdf), Muckley et al. - results of fastMRI challenge 2020.
+1. [Dual-domain Cascade of U-nets for Multi-channelMagnetic Resonance Image Reconstruction](https://arxiv.org/pdf/1911.01458.pdf), Souza et al. (2019) - U-net like architecture for MRI reconstruction.
+2. [State-of-the-art machine learning reconstruction in 2020: results of the second fastMRI challenge](https://arxiv.org/pdf/2012.06318.pdf), Muckley et al. (2020) - results of fastMRI challenge 2020.
