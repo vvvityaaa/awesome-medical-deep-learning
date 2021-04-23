@@ -9,6 +9,7 @@ A curated list of materials for *Deep Learning in medical applications*.
 
 - [Overview papers](#overview-papers)
 - [MRI](#mri)
+- [Cardiac deep learning](#cardiac-deep-learning)
 - [Segmentations](#segmentations)
 - [Challenges](#challenges)
 
@@ -19,3 +20,5 @@ A curated list of materials for *Deep Learning in medical applications*.
 ## MRI
 1. [Dual-domain Cascade of U-nets for Multi-channelMagnetic Resonance Image Reconstruction](https://arxiv.org/pdf/1911.01458.pdf), Souza et al. (2019) - U-net like architecture for MRI reconstruction.
 2. [State-of-the-art machine learning reconstruction in 2020: results of the second fastMRI challenge](https://arxiv.org/pdf/2012.06318.pdf), Muckley et al. (2020) - results of fastMRI challenge 2020.
+
+## Cardiac deep learning
