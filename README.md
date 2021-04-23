@@ -22,3 +22,4 @@ A curated list of materials for *Deep Learning in medical applications*.
 2. [State-of-the-art machine learning reconstruction in 2020: results of the second fastMRI challenge](https://arxiv.org/pdf/2012.06318.pdf), Muckley et al. (2020) - results of fastMRI challenge 2020.
 
 ## Cardiac deep learning
+1.[Deep Learning for Cardiac Image Segmentation: A Review](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full) - Chen et al. (2020) - overview of cardiac segmentation research.
