@@ -25,6 +25,7 @@ A curated list of materials for *Deep Learning in medical applications*.
 1.[Deep Learning for Cardiac Image Segmentation: A Review](https://www.frontiersin.org/articles/10.3389/fcvm.2020.00025/full) - Chen et al. (2020) - overview of cardiac segmentation research.
 
 ## Segmentations
+1. [U-net: Convolutional networks for biomedical image segmentation](https://arxiv.org/pdf/1505.04597.pdf) - Ronneberger et al. (2015) - proposes the U-Net architecture for medical segmentation, which is now popular in other branches of medical imaging.
 
 ## Challenges
 
