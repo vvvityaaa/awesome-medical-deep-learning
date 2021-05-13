@@ -29,4 +29,4 @@ A curated list of materials for *Deep Learning in medical applications*.
 
 ## Challenges
 1. [FastMRI](https://fastmri.org/) - challenge for AI techniques, in particular deep learning methods, for increasing the speed of MRI data aquisition.
-2. [2021 Kidney and Kidney Tumor Segmentation](https://zenodo.org/record/4674397#.YJ07POvRZQI) - segmentation of kidney and kidney tumor segmentation. MICCAI challenge.
+2. [2021 Kidney and Kidney Tumor Segmentation](https://zenodo.org/record/4674397#.YJ07POvRZQI) - kidney and kidney tumor segmentation challenge as a MICCAI challenge.
