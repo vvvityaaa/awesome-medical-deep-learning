@@ -28,4 +28,4 @@ A curated list of materials for *Deep Learning in medical applications*.
 1. [U-net: Convolutional networks for biomedical image segmentation](https://arxiv.org/pdf/1505.04597.pdf) - Ronneberger et al. (2015) - proposes the U-Net architecture for medical segmentation, which is now popular in other branches of medical imaging.
 
 ## Challenges
-
+1. [FastMRI](https://fastmri.org/) - challenge for AI techniques, in particular deep learning methods, for increasing the speed of MRI data aquisition.
