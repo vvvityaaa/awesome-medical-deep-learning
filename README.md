@@ -31,3 +31,4 @@ A curated list of materials for *Deep Learning in medical applications*.
 1. [FastMRI](https://fastmri.org/) - challenge for AI techniques, in particular deep learning methods, for increasing the speed of MRI data aquisition.
 2. [RealNoiseMRI](https://realnoisemri.grand-challenge.org/) - challenge for increasing the speed of MRI data aquisition with real noise data.
 3. [2021 Kidney and Kidney Tumor Segmentation](https://zenodo.org/record/4674397#.YJ07POvRZQI) - kidney and kidney tumor segmentation challenge as a MICCAI challenge.
+4. [Fetal Brain Tissue Annotation and Segmentation Challenge](https://feta-2021.grand-challenge.org/) - segmentation challenge on fetal MRI data as a MICCAI challenge.
